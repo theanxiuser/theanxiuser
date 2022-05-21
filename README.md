@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src=”[theanxiuser.jpg](https://github.com/theanxiuser/theanxiuser/blob/main/theanxiuser.jpg)" alt=”my photo”>
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://github.com/theanxiuser/theanxiuser/blob/main/theanxiuser.jpg" alt=”my banner”>
+
+</p>
