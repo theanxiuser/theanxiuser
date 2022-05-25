@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <a href="https://github.com/theanxiuser" target="_blank" rel="noreferrer"><img width="190" src="https://github.com/theanxiuser/theanxiuser/blob/main/theanxiuser.jpg" alt="my photo"></a>
+  <a href="https://github.com/theanxiuser" target="_blank" rel="noreferrer"><img width="100" src="https://github.com/theanxiuser/theanxiuser/blob/main/theanxiuser.jpg" alt="my photo"></a>
 </p>
 
 <h1 align="center">
