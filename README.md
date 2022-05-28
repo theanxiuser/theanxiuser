@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/theanxiuser" target="_blank" rel="noreferrer"><img width="100" src="https://github.com/theanxiuser/theanxiuser/blob/main/theanxiuser.jpg" alt="my photo"></a>
-</p>
+</p> -->
 
 <h1 align="center">
 Hi there, I'm Bishal 👋
@@ -29,7 +29,7 @@ I am in love with machines. I like to break the system and reconstruct it.
 
 ## 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/bishalpoudel/"><img align="left" src="https://raw.githubusercontent.com/theanxiuser/theanxiuser/main/images/linkedin.svg" alt="Bishal | LinkedIn" width="29px"/></a>
+<a href="https://www.linkedin.com/in/theanxiuser/"><img align="left" src="https://raw.githubusercontent.com/theanxiuser/theanxiuser/main/images/linkedin.svg" alt="Bishal | LinkedIn" width="29px"/></a>
 <a href="https://instagram.com/theanxiuser"><img align="left" src="https://raw.githubusercontent.com/theanxiuser/theanxiuser/main/images/instagram.svg" alt="Bishal | Instagram" width="29px"/></a>
 <a href="https://facebook.com/theanxiuser/"><img align="left" src="https://raw.githubusercontent.com/theanxiuser/theanxiuser/main/images/facebook.svg" alt="Bishal | Facebook" width="29px"/></a>
 <a href="https://twitter.com/theanxiuser"><img align="left" src="https://raw.githubusercontent.com/theanxiuser/theanxiuser/main/images/twitter.svg" alt="Bishal | Twitter" width="29px"/></a>
