@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">
-Hi there, [I'm Bishal](https://bishal-poudel.web.app/) 👋
+Hi there, I'm Bishal 👋
 </h1>
 
 <h3 align="center">
