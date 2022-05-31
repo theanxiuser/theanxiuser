@@ -13,12 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <p align="center">
-  <a href="https://github.com/theanxiuser" target="_blank" rel="noreferrer"><img width="100" src="https://github.com/theanxiuser/theanxiuser/blob/main/theanxiuser.jpg" alt="my photo"></a>
-</p> -->
 
 <h1 align="center">
-Hi there, I'm Bishal 👋
+Hi there, [I'm Bishal](https://bishal-poudel.web.app/) 👋
 </h1>
 
 <h3 align="center">
