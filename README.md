@@ -19,7 +19,7 @@ Hi there, I'm Bishal 👋
 </h1>
 
 <h3 align="center">
-Computer Engineer
+Tech Guy
 </h3> 
 
 I am in love with machines. I like to break the system and reconstruct it.
